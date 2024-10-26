@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="marcador4" size="1.000000 0.567376" />
+    <ImageTarget name="marcador3" size="1.000000 0.733154" />
+    <ImageTarget name="marcador2" size="1.000000 1.111372" />
+    <ImageTarget name="Hora_aventura" size="1.000000 0.625000" />
+  </Tracking>
+</QCARConfig>
